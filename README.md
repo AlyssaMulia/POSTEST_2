@@ -3,7 +3,7 @@
 # Nama : Alyssa Dwiana Mulia
 # kelas : Sistem Informasi'A
 # program toko roti
-![flowchart toko roti drawio](https://github.com/AlyssaMulia/POSTEST_2/assets/144673468/ffe3c5be-4d23-4726-9be7-cf8752c5b01b)
+![program toko roti drawio](https://github.com/AlyssaMulia/POSTEST_2/assets/144673468/9246320d-01e8-4cf3-828f-1f8823e8d1cc)
 
 OUTPUT YANG KELUAR:
 
